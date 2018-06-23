@@ -1,19 +1,14 @@
 {
   "name": "emojiscribe",
   "version": "0.1.0",
-  "description": "Tool that will attempt to describe text using emojis.",
-  "main": "index.js",
+  "description": "A Node module to describe text using emoji.",
+  "keywords": ["emoji, text, parsing, description"],
+  "homepage": "https://github.com/benjeh32/emojiscribe",
+  "bugs": "https://github.com/benjeh32/emojiscribe/issues",
+  "license": "MIT",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/benjeh32/emojiscribe.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/benjeh32/emojiscribe/issues"
-  },
-  "homepage": "https://github.com/benjeh32/emojiscribe#readme"
+  "repository": "github:benjeh32/emojiscribe"
 }
